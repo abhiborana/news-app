@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Political leaders send best wishes to Queen following health concerns",
+      "description": "News about the Queen's health came as MPs were debating the new prime minister's energy bills plan.",
+      "url": "http://www.bbc.co.uk/news/uk-politics-62833839",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3E0B/production/_126638851_c69fcdd1490f13960634046a91ad6af4bb7f2e19.jpg",
+      "publishedAt": "2022-09-08T14:22:19.7949559Z",
+      "content": "Media caption, Lindsay Hoyle interrupts MPs to make a statement on the health of the Queen\r\nPM Liz Truss has said the thoughts of people across the UK are with the Queen and her family, following con… [+2960 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Energy bills to be capped at £2,500 for typical household",
+      "description": "The new prime minister unveils a multi-billion pound plan to limit energy bill rises from October.",
+      "url": "http://www.bbc.co.uk/news/business-62831698",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6309/production/_126635352_1_bills_getty.jpg",
+      "publishedAt": "2022-09-08T13:37:23.6066326Z",
+      "content": "Liz Truss will limit energy bill rises for all households for two years as the new prime minster tries to prevent widespread hardship.\r\nA typical household energy bill will be capped at £2,500 annual… [+5233 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Fernández de Kirchner: Man and girlfriend 'planned' Argentina VP attack",
+      "description": "The suspected gunman and his girlfriend are charged with trying to kill Cristina Fernández de Kirchner.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-62832601",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1502F/production/_126636068_mediaitem126636067.jpg",
+      "publishedAt": "2022-09-08T12:37:15.6060603Z",
+      "content": "By Vanessa BuschschlüterBBC News\r\nA judge in Argentina has charged a man and his girlfriend with attempting to kill Vice-President Cristina Fernández de Kirchner last week. \r\nFernando Sabag Montiel, … [+2234 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Queen's health concerns: Doctors concerned for monarch's health - palace",
+      "description": "The Queen is under medical supervision at Balmoral Castle but \"but remains comfortable\", Buckingham Palace says.",
+      "url": "http://www.bbc.co.uk/news/live/uk-62834633",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2022-09-08T12:22:31.6998391Z",
+      "content": "Statements from the palace on the Queen's health are unusual, according to royal author Robert Hardman.\r\nHe tells the BBC: \"The palace dont normally issue bulletins on the Queens health, unless it's … [+498 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Queen under medical supervision as doctors concerned for health",
+      "description": "Her immediate family has been informed and she remains at Balmoral, Buckingham Palace says.",
+      "url": "http://www.bbc.co.uk/news/uk-62836057",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/103A9/production/_126637466_67be957e441a48ff80554933553e2c842b8d83ae0_363_3500_19703500x1970.jpg",
+      "publishedAt": "2022-09-08T11:52:22.3254463Z",
+      "content": "The Queen is under medical supervision at Balmoral after doctors became concerned for her health, Buckingham Palace says.\r\n\"Following further evaluation this morning, the Queen's doctors are concerne… [+785 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Climate change: Europe's warm summer shatters records",
+      "description": "Heatwaves and a record drought drove record heat all over Europe this summer, according to satellite data.",
+      "url": "http://www.bbc.co.uk/news/science-environment-62833937",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14021/production/_126635918_gettyimages-1243001476.jpg",
+      "publishedAt": "2022-09-08T11:22:26.6848536Z",
+      "content": "By Matt McGrathEnvironment correspondent\r\nThis summer was the hottest on record in Europe, according to data from EU satellite monitoring. \r\nA series of extreme heatwaves and a long running drought s… [+2583 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Marshall Islands: Chinese pair plotted 'mini-state' in Pacific nation",
+      "description": "US prosecutors say the couple bribed Marshall Island MPs to try to create a \"semi-autonomous region\".",
+      "url": "http://www.bbc.co.uk/news/world-asia-62830548",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1985/production/_126633560_gettyimages-588701424.jpg",
+      "publishedAt": "2022-09-08T11:22:23.0295138Z",
+      "content": "By Frances MaoBBC News\r\nA Chinese couple plotted to set up a mini-state on the Marshall Islands in the Pacific, bribing MPs and officials along the way, US prosecutors say.\r\nThe man and woman tried t… [+3423 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: US approves $2.6bn in new aid",
+      "description": "Defence Secretary Lloyd Austin announces the package at a meeting with other ministers in Germany.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62832881",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C12D/production/_126635494_austinepa.jpg",
+      "publishedAt": "2022-09-08T10:37:19.1372932Z",
+      "content": "By Patrick JacksonBBC News\r\nThe US has approved nearly $2.7bn (£2.3bn) in new aid for Ukraine including $675m in arms supplies as the country battles Russia's invasion.\r\nDefence Secretary Lloyd Austi… [+2214 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "New malaria vaccine is world-changing, say scientists",
+      "description": "The jab could be used on a mass scale next year with the aim of ending deaths from the disease.",
+      "url": "http://www.bbc.co.uk/news/health-62797776",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6421/production/_126633652_malaria_vaccine_afp.jpg",
+      "publishedAt": "2022-09-08T08:07:19.2562439Z",
+      "content": "By James GallagherHealth and science correspondent\r\nA malaria vaccine with \"world-changing\" potential has been developed by scientists at the University of Oxford. \r\nThe team expect it to be rolled o… [+4104 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Canadian mass stabbing suspect arrested",
+      "description": "Myles Sanderson, the Canadian mass stabbing suspect, has been arrested - ending manhunt that took in three provinces",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62829432",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2022-09-07T22:07:21.8648552Z",
+      "content": "Myles Sanderson, the Canadian mass stabbing suspect, has been arrested - ending manhunt that took in three provinces"
+    }
+  ]
+}
